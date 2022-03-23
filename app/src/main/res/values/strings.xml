@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string-array name="length">
+        <item>mm</item>
+        <item>cm</item>
+        <item>in</item>
+        <item>m</item>
+        <item>km</item>
+    </string-array>
+    <string-array name="mass">
+        <item>г</item>
+        <item>кг</item>
+        <item>т</item>
+    </string-array>
+</resources>
